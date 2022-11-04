@@ -1,6 +1,6 @@
 <div id="text" align="center">
 
-<h1>👋 Hi, I’m SammyD007</h1><br></br>
+<h1>👋 Hi, I’m SammyD007 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 I am currently learning and practicing several things to include; Python, CSS, CSharp, HTML5, Javascript, Git, nodejs, visual studio (community and vscode), ubuntu (and other linux operating systems), as well as following along with the Odin Project for HTML, CSS and web development. I am also in the process of taking the DevOps exams through the microsoft learning center and CS50/CS50 for web development with java and python from Harvard university.
 
 <h2>Languages and Tools I am familiar with:</h2>
