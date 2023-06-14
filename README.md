@@ -16,6 +16,7 @@ I am currently learning and practicing several things to include; Python, CSS, C
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="visualstudiocode" width="50" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/33131755?s=280&v=4" title="popos" width="50" height="50"/>
 <br></br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/samual-dalrymple-899b88195">
